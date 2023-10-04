@@ -3,7 +3,7 @@ This is an exploratory analysis of data from marks secured by the students in hi
 
 After analysing the results, it is possible to draw some conclusions:
 
-Genre:
+Gender:
 - Analysing gender, it can be concluded that males scored higher in maths and females scored higher in reading and writing. Below is a comparison of the score averages. The medians are above the means, which further corroborates the result.
 - math score - mean:
    male = 68.72
